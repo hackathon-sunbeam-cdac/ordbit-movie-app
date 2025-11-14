@@ -1,0 +1,46 @@
+.navlinks{
+    color:#fff;
+    text-decoration: none;
+    font-size: larger;
+}
+#navbarNav{
+    width: 100%;
+    height: 10%;
+    
+}
+.main_container{
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-image: url("../image/landing_image.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+img{
+    height: 93%;
+
+    width: 100%;
+    object-fit: cover;
+    
+}
+.container-fluid{
+    
+}
+
+.gradient-overlay {
+  position: absolute;
+ 
+  width: 100%;
+  height: 91%;
+  
+  
+
+  background: linear-gradient(
+    to bottom, 
+    rgba(0, 0, 0, 0.1) 0%,     
+    rgba(0, 0, 0, 0.9) 100%   
+  );
+}
+
+
